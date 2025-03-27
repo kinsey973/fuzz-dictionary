@@ -1,3 +1,3 @@
 # fuzz-dictionary
 
-这是一个fuzz字典项目
+这是一个fuzz字典项目。
