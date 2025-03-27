@@ -1,1 +1,1 @@
-print("cnm world")
+print("hello world")
