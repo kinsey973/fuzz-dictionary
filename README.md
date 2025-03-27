@@ -1,3 +1,3 @@
 # fuzz-dictionary
 
-fuzz字典项目
+用来收集各种payload
